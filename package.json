@@ -2,6 +2,7 @@
   "name": "pravesh-shukla-profile",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pravesh98.github.io/pravesh-shukla-profile",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
